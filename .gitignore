@@ -10,3 +10,6 @@ data/movie_professional_cleaned.ipynb
 data/professional_reviews_cleaned.zip
 data/reviews.csv
 data/data.csv
+data/token_data.csv
+checkpoint.pth
+_pycache_
